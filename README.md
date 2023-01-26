@@ -23,7 +23,7 @@ with open('f4.txt','r') as firstfile:
         for line in firstfile:
             secondfile.write(line)
             
-            ``
+```
 ### OUTPUT:
 ![copy](https://user-images.githubusercontent.com/121165786/214784819-e9c14d60-b16d-46b2-9fdf-6f2d3c8faeba.png)
 
